@@ -1,3 +1,3 @@
 # clone-nvidia
 <br>
-Author - NaitiK Madarwal :D
+Author - NaitiK Madarwal
